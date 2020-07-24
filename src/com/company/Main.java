@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        noIdea iUruhIdea = new noIdea();
+        iUruhIdea.iUruhNoIdea();
         getHelp helpDev1ce = new getHelp();
         helpDev1ce.getNumber();
         System.out.println("王德法 + 添加内容");
